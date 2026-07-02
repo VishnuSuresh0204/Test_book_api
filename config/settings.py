@@ -30,7 +30,7 @@ ALLOWED_HOSTS = [
     "localhost",
     "test-book-api.onrender.com",
 ]
-
+API_KEY = ""
 # Application definition
 
 INSTALLED_APPS = [
